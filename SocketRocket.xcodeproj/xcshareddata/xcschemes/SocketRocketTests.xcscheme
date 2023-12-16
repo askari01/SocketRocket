@@ -39,6 +39,8 @@
             </BuildableReference>
          </TestableReference>
       </Testables>
+      <AdditionalOptions>
+      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -62,6 +64,11 @@
       <AdditionalOptions>
          <AdditionalOption
             key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "OBJC_PRINT_EXCEPTIONS"
             value = "YES"
             isEnabled = "YES">
          </AdditionalOption>
