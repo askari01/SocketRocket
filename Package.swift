@@ -4,8 +4,8 @@ import PackageDescription
 let package = Package(
     name: "SocketRocket",
     platforms: [
-        .iOS(.v11),
-        .macOS(.v10_13),
+        .iOS(.v15),
+        .macOS(.v10_15),
         .tvOS(.v11),
     ],
     products: [

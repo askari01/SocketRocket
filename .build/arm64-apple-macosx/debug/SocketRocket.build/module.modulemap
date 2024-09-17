@@ -1,0 +1,4 @@
+module SocketRocket {
+    umbrella "/Users/askari/Projects/SocketRocket/SocketRocket/include"
+    export *
+}
