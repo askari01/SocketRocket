@@ -1180,7 +1180,7 @@
 			baseConfigurationReference = 81D6475D1D2CA6A100690609 /* SocketRocketTests-iOS.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 			};
 			name = Debug;
 		};
@@ -1189,7 +1189,7 @@
 			baseConfigurationReference = 81D6475D1D2CA6A100690609 /* SocketRocketTests-iOS.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 			};
 			name = Release;
 		};
